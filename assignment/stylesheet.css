@@ -11,9 +11,10 @@ body {
 .header {
   background-color: #3a5c70;
   margin: 0;
+  box-shadow: 0px 5px 7px #3a5c70;
 }
 
-.header > h1, h2 {
+.header > .week5, .recordtext {
   color: #ffffff;
   text-align: center;
 }
@@ -24,4 +25,9 @@ body {
   background-color: #bdbdbd;
   padding: 1em;
   text-align: center;
+  box-shadow: 0px 5px 7px #3a5c70;
+}
+
+.console {
+
 }
