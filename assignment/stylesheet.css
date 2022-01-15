@@ -31,12 +31,16 @@ body {
 
 .navlinks > ul {
   list-style: none;
+  padding: 5px;
 }
+
+li {
+  padding: 3px;
+}
+
 a.links {
   text-decoration: none;
-  color: black;
-  padding: 2px;
-  margin: 5px;
+  color: #3a5c70;
 }
 
 a.links:hover {
